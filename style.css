@@ -1,0 +1,38 @@
+.article {
+	margin-top:50px;
+}
+
+.article p{
+	text-align: justify;
+}
+
+footer{
+	margin-top: 20px;
+	text-align: center;
+	font-weight: bold;
+}
+
+.admin-table{
+	width: 100%;
+}
+
+.form-item {
+	width:600px;
+}
+
+label{
+	width:600px;
+	margin: 20px 0px;
+}
+
+form{
+	width: 600px;
+}
+
+textarea.form-item{
+	height: 200px;
+}
+
+input.form-item{
+	height: 22px;
+}
